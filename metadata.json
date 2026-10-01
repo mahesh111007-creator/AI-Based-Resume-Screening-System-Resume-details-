@@ -1,0 +1,6 @@
+{
+  "name": "TalentScan AI · Resume Screening & Shortlisting",
+  "description": "Intelligent AI-powered resume parser, semantic skills matching, candidate ranking, and shortlisting engine for modern talent teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
